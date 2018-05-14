@@ -9,7 +9,7 @@ Find out more [about Glitch](https://glitch.com/about).
 
 **MLH Localhost** is the best way to learn new hacker skills with your community. 
 
-Find out more [about MLH Lolca
+Find out more [about MLH Localhost](localhost.mlh.io). 
 
 
 Your Project
@@ -31,7 +31,6 @@ CSS files add styling rules to your content.
 
 Drag in `assets`, like images or music, to add them to your project
 
-Made by [Fog Creek](https://fogcreek.com/)
 -------------------
 
 \ ゜o゜)ノ
