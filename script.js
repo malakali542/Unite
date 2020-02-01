@@ -1,7 +1,4 @@
-const action = (() => {
-  return {
-    login(el) {
-      return false;
-    }
-  };
-})();
+function login(el) {
+  window.location = '/Login.html';
+  return false;
+}
