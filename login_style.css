@@ -1,0 +1,52 @@
+.button {
+  position: absolute;
+  width: 441px;
+  height: 106px;
+  left: 824px;
+  top: 699px;
+  text-align: center;
+  background: #F47070;
+  border-radius: 50px;
+  cursor: pointer;
+  font-family: Fredoka One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 45px;
+  line-height: 54px;
+}
+
+.name_input1 {
+  position: absolute;
+  width: 518px;
+  height: 64px;
+  left: 766px;
+  top: 339px;
+
+  font-size: 80 px;
+
+  background: rgba(196, 196, 196, 0.15);
+}
+
+.name_input2 {
+  position: absolute;
+  width: 518px;
+  height: 64px;
+  left: 766px;
+  top: 525px;
+
+  font-size: 80 px;
+
+  background: rgba(196, 196, 196, 0.15);
+}
+
+img {
+  position: absolute;
+  width: 598px;
+  height: 432px;
+  left: 62px;
+  top: 273px;
+}
+
+body {
+  background-color: #ACD8C9;
+}

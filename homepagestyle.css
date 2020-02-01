@@ -1,0 +1,76 @@
+body, p, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+}
+
+body {
+  min-height: 100vh;
+  background-color: #ACB5E7;
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  height: 90px;
+  display: flex;
+  align-items: center;
+  padding: 0 25px;
+}
+
+.header .logo {
+  flex: 1;
+  font-family: Fredoka One;
+  font-size: 20pt;
+}
+
+a {
+  text-decoration: none;
+}
+/* 
+.header .log-in {
+  flex: 5;
+  background: grey;
+} */
+
+.header p, .header a {
+  font-size: 15pt;
+  font-family: Fredoka One;
+  color: #8D779D;
+  padding: 20px;
+}
+
+.content {
+  text-align: center;
+  align-items: center;
+  font-family: Roboto;
+  color: white;
+  font-weight: bold;
+  font-size: 25pt;
+}
+
+.content img {
+  padding: 40px 40px;
+}
+
+.content .blurb {
+  font-size: 16pt;
+  font-weight: 300;
+
+}
+
+.content .button {
+  border-radius: 2000000000px;
+  padding: 10px 20px;
+  background: rgb(184, 140, 184);
+  color: white;
+
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 16pt;
+  margin: 0 auto;
+  transition: all ease-in-out 150ms;
+  max-width: 90px;
+}
+
+.content .button:hover {
+  background: rgba(128, 0, 128, 0.63);
+}
