@@ -142,9 +142,9 @@ p{
 .button{
   border-radius: 10px;
   position: absolute;
-  width: 500px; 
-  height: 30px;
-  left: 85px;
+  width: 170px; 
+  height: 75px;
+  left: 1000px;
   top: 675px;
   
   font-family: Martel Sans;
@@ -153,6 +153,6 @@ p{
   font-size: 36px;
   line-height: 66px;
 
-  background: #FFFFFF;
+  background: #FBBEBE;
   
 }
