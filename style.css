@@ -76,14 +76,18 @@ p{
   color: rgba(79, 78, 85, 0.62);
 }
 .name_input{
-  border-radius: 15px;
+  border-radius: 10px;
   position: absolute;
   width: 549px;
   height: 64px;
   left: 818px;
   top: 265px;
   
-  font-size: 50px;
+  font-family: Martel Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 66px;
 
   background: #FFFFFF;
 }
