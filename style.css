@@ -4,18 +4,19 @@ body {
   background-color: #76A3DC;
 } 
 
-h1 { 
+.header { 
       position: absolute;
       width: 167px;
-      height: 67px;
+      height: 57px;
       left: 24px;
       top: 13px;
 
-      font-family: 'Fredoka One', cursive;
+      font-family: Fredoka One;
       font-style: normal;
       font-weight: normal;
-      font-size: 60px;
+      font-size: 40px;
       line-height: 73px;
 
       color: rgba(79, 78, 85, 0.62);
+  
 }
