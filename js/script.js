@@ -1,5 +1,8 @@
-window.onload = () => {
-  
-};
-
-(() => { console.log('Hi') })();
+const action = (() => {
+  return {
+    login(el) {
+      el.preventDefault();
+      return false;
+    },
+  };
+})();
