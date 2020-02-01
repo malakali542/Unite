@@ -173,12 +173,8 @@ p{
 .button{
   border-radius: 2000000000px;
   padding: 10px 20px;
-  position: absolute;
-  width: 170px; 
-  height: 75px;
-  left: 1000px;
-  top: 675px;
-  
+  color:  black;
+
   font-family: Roboto;
   font-weight: bold;
   font-size: 16pt;
@@ -188,4 +184,7 @@ p{
 
   background: #FBBEBE;
   
+}
+.button:hover {
+  background: #ED0202;
 }

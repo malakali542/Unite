@@ -33,49 +33,51 @@ color: #65617D;
 }
 
 .product {
-  position: absolute;
-  width: 125px;
-  height: 49px;
-  left: 930px;
-  top: 31px;
+ position: absolute;
+width: 123px;
+height: 44px;
+left: 711px;
+top: 18px;
 
-  font-family: Fredoka One;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 30px;
-  line-height: 36px;
+font-family: Fredoka One;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
 
-  color: #65617D;
+color: #65617D;
+
 }
 .pricing{
   position: absolute;
-  width: 125px;
-  height: 49px;
-  left: 1093px;
-  top: 31px;
+width: 141px;
+height: 44px;
+left: 884px;
+top: 18px;
 
-  font-family: Fredoka One;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 30px;
-  line-height: 36px;
+font-family: Fredoka One;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
 
-  color: #65617D;
+color: #65617D;
+
 }
 .aboutus{
   position: absolute;
-  width: 150px;
-  height: 49px;
-  left: 1241px;
-  top: 31px;
+width: 164px;
+height: 44px;
+left: 1000px;
+top: 18px;
 
-  font-family: Fredoka One;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 30px;
-  line-height: 36px;
+font-family: Fredoka One;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 36px;
 
-  color: #65617D;
+color: #65617D;
 }
 
 .name_input1 {
@@ -112,5 +114,9 @@ img {
 
 body {
   background-color: #ACD8C9;
+}
+
+.button:hover {
+  background: rgba(247, 134, 137, 0.63);
 }
 
