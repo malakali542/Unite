@@ -1,8 +1,21 @@
 body {
   font-family: "Open Sans", helvetica, arial, sans-serif;
   margin: 3vw;
-}
+  background-color: #76A3DC;
+} 
 
-h1 {
-  color: #4E92DF;
+h1 { 
+      position: absolute;
+      width: 167px;
+      height: 67px;
+      left: 24px;
+      top: 13px;
+
+      font-family: 'Fredoka One', cursive;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 60px;
+      line-height: 73px;
+
+      color: rgba(79, 78, 85, 0.62);
 }
