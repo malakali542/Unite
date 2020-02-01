@@ -171,18 +171,20 @@ p{
   background: #FFFFFF;
 }
 .button{
-  border-radius: 10px;
+  border-radius: 2000000000px;
+  padding: 10px 20px;
   position: absolute;
   width: 170px; 
   height: 75px;
   left: 1000px;
   top: 675px;
   
-  font-family: Martel Sans;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 30px;
-  line-height: 66px;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 16pt;
+  margin: 0 auto;
+  transition: all ease-in-out 150ms;
+  max-width: 90px;
 
   background: #FBBEBE;
   
