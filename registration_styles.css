@@ -21,11 +21,41 @@ body {
   
 }
 
-.header2 {
+.product {
   position: absolute;
-  width: 437px;
+  width: 125px;
   height: 49px;
   left: 930px;
+  top: 31px;
+
+  font-family: Fredoka One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 36px;
+
+  color: #65617D;
+}
+.pricing{
+  position: absolute;
+  width: 125px;
+  height: 49px;
+  left: 1093px;
+  top: 31px;
+
+  font-family: Fredoka One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 36px;
+
+  color: #65617D;
+}
+.aboutus{
+  position: absolute;
+  width: 150px;
+  height: 49px;
+  left: 1241px;
   top: 31px;
 
   font-family: Fredoka One;
