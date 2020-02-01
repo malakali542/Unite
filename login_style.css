@@ -7,12 +7,14 @@
   text-align: center;
   background: #F47070;
   border-radius: 50px;
+ 
   cursor: pointer;
   font-family: Fredoka One;
   font-style: normal;
   font-weight: normal;
   font-size: 45px;
   line-height: 54px;
+  
 }
 
 .registration {
