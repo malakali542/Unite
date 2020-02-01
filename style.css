@@ -4,19 +4,49 @@ body {
   background-color: #76A3DC;
 } 
 
-.header { 
-      position: absolute;
-      width: 167px;
-      height: 57px;
-      left: 24px;
-      top: 13px;
+.header1 { 
+  position: absolute;
+  width: 167px;
+  height: 57px;
+  left: 24px;
+  top: 13px;
 
-      font-family: Fredoka One;
-      font-style: normal;
-      font-weight: normal;
-      font-size: 40px;
-      line-height: 73px;
+  font-family: Fredoka One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 73px;
 
-      color: rgba(79, 78, 85, 0.62);
+  color: rgba(79, 78, 85, 0.62);
   
+}
+.header2{
+  position: absolute;
+  width: 437px;
+  height: 49px;
+  left: 930px;
+  top: 31px;
+
+  font-family: Fredoka One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 36px;
+
+  color: #65617D;
+}
+.header3{
+  position: absolute;
+  width: 583px;
+  height: 29px;
+  left: 24px;
+  top: 80px;
+
+  font-family: Fredoka One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: rgba(54, 84, 191, 0.62);
 }
