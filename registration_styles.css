@@ -172,15 +172,17 @@ p{
 }
 .button{
   border-radius: 2000000000px;
-  padding: 10px 20px;
-  color:  black;
+  color: black;
 
   font-family: Roboto;
   font-weight: bold;
   font-size: 16pt;
+  position: absolute;
+  width: 120.59px;
+  height: 50px;
+  left: 1033px;
+  top: 675px;
   margin: 0 auto;
-  transition: all ease-in-out 150ms;
-  max-width: 90px;
 
   background: #FBBEBE;
   
