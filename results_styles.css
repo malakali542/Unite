@@ -1,0 +1,20 @@
+.header1 { 
+  position: absolute;
+  width: 167px;
+  height: 57px;
+  left: 24px;
+  top: 0px;
+
+  font-family: Fredoka One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 73px;
+
+  color: rgba(79, 78, 85, 0.62);
+  
+}
+
+body {
+  background-color: #DCE3FC;
+}

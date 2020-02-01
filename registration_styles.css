@@ -96,7 +96,7 @@ p{
   width: 305px;
   height: 44px;
   left: 940px;
-  top: 175px;
+  top: 125px;
 
   font-family: Fredoka One;
   font-style: normal;
@@ -112,7 +112,7 @@ p{
   width: 549px;
   height: 64px;
   left: 818px;
-  top: 265px;
+  top: 225px;
   
   font-family: Martel Sans;
   font-style: normal;
@@ -128,7 +128,7 @@ p{
   width: 549px;
   height: 64px;
   left: 818px;
-  top: 359px;
+  top: 325px;
   
   font-family: Martel Sans;
   font-style: normal;
@@ -144,7 +144,7 @@ p{
   width: 549px;
   height: 64px;
   left: 818px;
-  top: 452px;
+  top: 425px;
   
   font-family: Martel Sans;
   font-style: normal;
@@ -160,7 +160,23 @@ p{
   width: 549px;
   height: 64px;
   left: 818px;
-  top: 544px;
+  top: 525px;
+  
+  font-family: Martel Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 66px;
+
+  background: #FFFFFF;
+}
+.code{
+  border-radius: 10px;
+  position: absolute;
+  width: 549px;
+  height: 64px;
+  left: 818px;
+  top: 625px;
   
   font-family: Martel Sans;
   font-style: normal;
@@ -184,7 +200,7 @@ p{
   max-width: 90px;
   position: absolute;
   left: 1033px;
-  top: 675px;
+  top: 725px;
 }
 .button:hover {
   background: #E28C8C;
