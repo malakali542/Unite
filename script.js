@@ -1,4 +1,4 @@
 function login(el) {
-  window.location = '/Login.html';
+  window.location = '/Branches.html';
   return false;
 }
