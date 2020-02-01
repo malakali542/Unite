@@ -92,5 +92,67 @@ p{
   background: #FFFFFF;
 }
 .email_input{
+  border-radius: 10px;
+  position: absolute;
+  width: 549px;
+  height: 64px;
+  left: 818px;
+  top: 359px;
+  
+  font-family: Martel Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 66px;
+
+  background: #FFFFFF;
+}
+.pass_input{
+  border-radius: 10px;
+  position: absolute;
+  width: 549px;
+  height: 64px;
+  left: 818px;
+  top: 452px;
+  
+  font-family: Martel Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 66px;
+
+  background: #FFFFFF;
+}
+.repass_input{
+  border-radius: 10px;
+  position: absolute;
+  width: 549px;
+  height: 64px;
+  left: 818px;
+  top: 544px;
+  
+  font-family: Martel Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 66px;
+
+  background: #FFFFFF;
+}
+.button{
+  border-radius: 10px;
+  position: absolute;
+  width: 500px; 
+  height: 30px;
+  left: 85px;
+  top: 675px;
+  
+  font-family: Martel Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 66px;
+
+  background: #FFFFFF;
   
 }
