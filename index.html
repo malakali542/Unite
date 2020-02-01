@@ -36,7 +36,7 @@
     <p>
       Let's Get Started!
     </p>
-    <form id="form" onsubmit="action.login(this)">
+    <form id="form" onsubmit="return action.login(this)">
       <input class="name_input" type="text" placeholder="Name" required />
       <input class="email_input" type="text" placeholder="Email" required />
       <input class="pass_input" type="text" placeholder="Password" required />
@@ -48,6 +48,6 @@
       />
       <button class="button" type="submit">Submit</button>
     </form>
+    <script src="script.js"></script>
   </body>
-  <script src="js/script.js"></script>
 </html>
