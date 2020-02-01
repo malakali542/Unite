@@ -2,6 +2,48 @@ body {
   background-color: #ACD8C9;
 }
 
+.header3{
+  position: absolute;
+  width: 583px;
+  height: 29px;
+  left: 24px;
+  top: 60px;
+
+  font-family: Fredoka One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: rgba(54, 84, 191, 0.62);
+}
+
+.image {
+  position: absolute;
+width: 479px;
+height: 796px;
+left: 458px;
+top: 119px;
+
+background: url(tree-with-hearts-clipart-7.png);
+}
+
+.header1 { 
+  position: absolute;
+  width: 167px;
+  height: 57px;
+  left: 24px;
+  top: 0px;
+
+  font-family: Fredoka One;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 73px;
+
+  color: rgba(79, 78, 85, 0.62);
+}
+
 body {
 	background-color: #C5FDFD;
 	font-family: "Martel Sans", sans-serif;
